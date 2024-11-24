@@ -1,0 +1,16 @@
+*{
+    padding: 0px;
+    max-width: 0px;
+}
+
+
+#title{
+    flex:none;
+    font-display:2px;
+    font-size: 10px;
+    display: contents;
+    flex: content;
+    border: 0.25rem;
+    background-color: grey;
+    
+}
