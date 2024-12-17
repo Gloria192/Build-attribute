@@ -1,0 +1,62 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  /* Centering the main content */
+  #main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+  
+  /* Styling the title */
+  #title {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+  }
+  
+  /* Styling the image container */
+  #img-div {
+    margin: 20px 0;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Caption below the image */
+  #img-caption {
+    font-style: italic;
+    margin-top: 10px;
+  }
+  
+  /* Styling the tribute info section */
+  #tribute-info {
+    text-align: justify;
+    margin: 20px 0;
+  }
+  
+  /* Link styling */
+  #tribute-link {
+    display: inline-block;
+    text-decoration: none;
+    color: #007BFF;
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  
+  #tribute-link:hover {
+    color: #0056b3;
+  }
